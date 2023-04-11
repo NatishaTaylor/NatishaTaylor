@@ -1,4 +1,4 @@
-<h1>Hi, Natisha, an <a href="https://www.linkedin.com/in/natishataylor/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Natisha, an <a href="https://www.linkedin.com/in/natishataylor/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
