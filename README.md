@@ -1,4 +1,5 @@
 <h1>Hi, I'm Natisha, an <a href="https://linkedin.com/in/natishataylor/">IT Professional</a>☺</h1>
+<img src="https://i.imgur.com/JFCHHs5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
