@@ -5,11 +5,11 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/NatishaTaylor/creatingvm)
-- <b>osTicket</b>
+- <b>osTicket (Help Desk)</b>
   - [osTicket:Ticket Lifecycle](https://github.com/NatishaTaylor/osTicket)
-- <b> VPN</b>
+- <b> VPN (Virtual Private Network)</b>
   - [VPN Setup and Usage](https://github.com/NatishaTaylor/VPN)
-- <b>DNS</b>
+- <b>DNS(Domain Name System)</b>
   - [Building Intuition for DNS](https://github.com/NatishaTaylor/DNS)
 - <b>Active Directory</b>
   - [Active Directory and Creating Users](https://github.com/NatishaTaylor/ActiveDirectory)
