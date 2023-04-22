@@ -1,8 +1,10 @@
 <h1>Hi, I'm Natisha, <a href="https://linkedin.com/in/natishataylor/">Cyber Security & IT Professional</a></h1>
 <img src="https://i.imgur.com/JFCHHs5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>👩🏽‍💻 Information Technology Projects:</h2>
+<h2>👩🏽‍💻 Cyber Security & IT Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/NatishaTaylor/creatingvm)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/NatishaTaylor/creatingvm)
 - <b>osTicket (Help Desk)</b>
