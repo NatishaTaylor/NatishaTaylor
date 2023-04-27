@@ -1,4 +1,4 @@
-<h1>Hi! I'm Natisha <a href="https://linkedin.com/in/natishataylor/">Cyber Security & IT Professional</a></h1>
+<h1>Hi! I'm Natisha <a href="https://linkedin.com/in/natishataylor/">Physical Therapist Assistant & IT Professional</a></h1>
 <img src="https://i.imgur.com/JFCHHs5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>👩🏽‍💻 Cyber Security & IT Projects:</h2>
