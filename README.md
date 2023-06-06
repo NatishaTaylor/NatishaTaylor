@@ -1,7 +1,7 @@
 <h1>Hi! I'm Natisha <a href="https://linkedin.com/in/natishataylor/">Front End Developer, Data Analyst and IT Professional</a></h1>
 <img src="https://i.imgur.com/JFCHHs5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>👩🏽‍💻 Cyber Security & IT Projects:</h2>
+<h2>👩🏽‍💻 Web Development, Data Analyst and IT Portfolio:</h2>
 
 - <b>Cloud: Azure Projects</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/NatishaTaylor/Cloud-SOC-Honeynet-in-Azure)
